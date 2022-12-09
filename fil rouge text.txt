@@ -1,0 +1,55 @@
+charging book :
+
+   creating a management system for a store that sells building materials contains administration , workers,  supplyers & colaborator technicians.
+	
+
+	#administration
+
+	this web site allows the administration to manage the products , clients & colaborator techniciants
+
+	
+
+store who sells building instructions has:
+
+	->  store spesialities  
+
+		*electricity
+		*sanitary
+		*painting
+
+	->  suppliers
+
+		* they are severale compenies that the store work with and they the source of the products 
+		> they suplly the store with products and the products reciptes .
+			
+	->  administration
+
+		>  can add new coloborator technisiants 
+		>  can add supplyer companies
+		
+		
+	->  workers
+
+	->  clients
+		> client can sign up .
+		> client can sign in .
+		> list of clients 
+		> client resepts (deadlines)
+		> total amount of product he bought 
+		
+
+
+	->  colaborator technisients(plumers,electricians..)
+		
+		> list of numbers and spesiality of technisiense in case a clien whatns to reach a technesian on any spesialty 
+		> technisiants can write and send lists of prodocts that the client whats to the store workers 
+
+
+
+----------------------------
+
+
+product by adding and modifiying a product on any categorie (electricity,senatary,painting),
+	controling the product prices ,
+
+		 
