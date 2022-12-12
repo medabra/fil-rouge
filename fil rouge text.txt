@@ -1,4 +1,4 @@
-charging book :
+   >>>:
 
    creating a management system for a store that sells building materials contains administration , workers,  supplyers & colaborator technicians.
 	
@@ -9,7 +9,7 @@ charging book :
 
 	
 
-store who sells building products has:
+the store has:
 
 	->  store spesialities  
 
@@ -20,12 +20,15 @@ store who sells building products has:
 	->  suppliers
 
 		* they are severale compenies that the store work with and they the source of the products 
-		> they suplly the store with products and the products reciptes .
+		> they suplly the store with products and the products reciptes (bon d achate ) .
 			
 	->  administration
 
 		>  can add new coloborator technisiants 
 		>  can add supplyer companies
+		>  minupilating product by adding and modifiying a product on any categorie (electricity,senatary,painting),
+	controling the product prices ,
+
 		
 		
 	->  workers
@@ -36,7 +39,7 @@ store who sells building products has:
 		> client can sign in .
 		> list of clients 
 		> client resepts (deadlines)
-		> total amount of product he bought 
+		> total amount of product he bought & its price 
 		
 
 
@@ -49,8 +52,8 @@ store who sells building products has:
 
 ----------------------------
 
+Still in progress 
 
-product by adding and modifiying a product on any categorie (electricity,senatary,painting),
-	controling the product prices ,
+
 
 		 
