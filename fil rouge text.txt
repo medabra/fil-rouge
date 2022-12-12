@@ -26,20 +26,20 @@ the store has:
 
 		>  can add new coloborator technisiants 
 		>  can add supplyer companies
-		>  minupilating product by adding and modifiying a product on any categorie (electricity,senatary,painting),
+		>  minupilating product by adding and modifiying & delete a product on any categorie (electricity,senatary,painting),
 	controling the product prices ,
 
 		
 		
 	->  workers
-		>can resive listes of colaboratore clients 
+		>can resive listes from colaboratore clients 
 
 	->  clients
 		> client can sign up .
 		> client can sign in .
 		> list of clients 
 		> client resepts (deadlines)
-		> total amount of product he bought & its price 
+		> total amount of product he bought & its price
 		
 
 
