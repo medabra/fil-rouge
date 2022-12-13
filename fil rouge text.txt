@@ -19,7 +19,7 @@ the store has:
 
 	->  suppliers
 
-		* they are severale compenies that the store work with and they the source of the products 
+		* they are severale compenies that the store works with and they're the source of the products 
 		> they suplly the store with products and the products reciptes (bon d achate ) .
 			
 	->  administration
@@ -27,26 +27,32 @@ the store has:
 		>  can add new coloborator technisiants 
 		>  can add supplyer companies
 		>  minupilating product by adding and modifiying & delete a product on any categorie (electricity,senatary,painting),
-	controling the product prices ,
+		controling the product prices 
+		> list of clients 
+		> client resepts (deadlines)
 
 		
 		
 	->  workers
+
 		>can resive listes from colaboratore clients 
 
 	->  clients
+
+            > list of numbers and spesiality of technisiense in case a clien whatns to reach a technesian on any spesialty 
+		> clients can order products 
+
 		> client can sign up .
 		> client can sign in .
-		> list of clients 
-		> client resepts (deadlines)
-		> total amount of product he bought & its price
+		> total amount of product they bought & its price
+
+		
 		
 
 
 	->  colaborator technisients(plumers,electricians..)
 		
-		> list of numbers and spesiality of technisiense in case a clien whatns to reach a technesian on any spesialty 
-		> technisiants can do visites and  write & send lists of prodocts that the client whats to the store workers 
+		> technisiants can do visites and  write & send lists of prodocts that the client wants to the store workers 
 
 
 
